@@ -1,0 +1,735 @@
+{
+    "errorMessageCode": "NONE",
+    "message": "LOAD completed successfully.",
+    "result": {
+        "END_TIME": "",
+        "LOAD_ID": 1668556505714,
+        "LOAD_LOGFILE": "loadlogs\/load_1668556505714_XHC17948_SPACEX_20221213-061051-GMT.txt",
+        "LOAD_OUTPUT": [
+            {
+                "MESSAGE": "The DB2_LOAD_COPY_NO_OVERRIDE registry variable value \"COPY YES TO DB2REMOTE:\/\/db2-s3-load\/\/CSYS.DB2COS\/\/LoadCopies,DB2REMOTE\" overrides the COPY NO parameter specified in the Load.",
+                "SQLCODE": "SQL27966W"
+            },
+            {
+                "MESSAGE": "The utility is beginning to load data from file \"S3\".",
+                "SQLCODE": "SQL3109N"
+            },
+            {
+                "MESSAGE": "The utility is beginning the \"LOAD\" phase at time \"12\/13\/2022 06:10:57.817545\".",
+                "SQLCODE": "SQL3500W"
+            },
+            {
+                "MESSAGE": "Begin Load Consistency Point. Input record count = \"0\".",
+                "SQLCODE": "SQL3519W"
+            },
+            {
+                "MESSAGE": "Load Consistency Point was successful.",
+                "SQLCODE": "SQL3520W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-3\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-6\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-9\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-10\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-13\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-17\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-18\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-19\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-20\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-21\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-25\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-26\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-27\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-28\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-29\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-30\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-31\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-32\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-34\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-36\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-37\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-39\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-40\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-44\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-45\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-46\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-48\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-49\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-51\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-53\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-55\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-57\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-58\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-59\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-63\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-66\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-68\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-71\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-73\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-77\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-79\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-80\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-81\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-83\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-84\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-85\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-87\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-88\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-89\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-91\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-92\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-95\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-96\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-98\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-99\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "The syntax of the string representation of a datetime value is incorrect.  SQLSTATE=22007",
+                "SQLCODE": "SQL0180N"
+            },
+            {
+                "MESSAGE": "The previous error occurred while processing data from row \"F0-100\" of the input file.",
+                "SQLCODE": "SQL3185W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-3\" refers to user record number \"3\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-6\" refers to user record number \"6\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-9\" refers to user record number \"9\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-10\" refers to user record number \"10\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-13\" refers to user record number \"13\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-17\" refers to user record number \"17\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-18\" refers to user record number \"18\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-19\" refers to user record number \"19\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-20\" refers to user record number \"20\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-21\" refers to user record number \"21\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-25\" refers to user record number \"25\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-26\" refers to user record number \"26\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-27\" refers to user record number \"27\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-28\" refers to user record number \"28\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-29\" refers to user record number \"29\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-30\" refers to user record number \"30\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-31\" refers to user record number \"31\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-32\" refers to user record number \"32\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-34\" refers to user record number \"34\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-36\" refers to user record number \"36\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-37\" refers to user record number \"37\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-39\" refers to user record number \"39\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-40\" refers to user record number \"40\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-44\" refers to user record number \"44\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-45\" refers to user record number \"45\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-46\" refers to user record number \"46\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-48\" refers to user record number \"48\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-49\" refers to user record number \"49\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-51\" refers to user record number \"51\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-53\" refers to user record number \"53\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-55\" refers to user record number \"55\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-57\" refers to user record number \"57\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-58\" refers to user record number \"58\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-59\" refers to user record number \"59\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-63\" refers to user record number \"63\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-66\" refers to user record number \"66\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-68\" refers to user record number \"68\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-71\" refers to user record number \"71\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-73\" refers to user record number \"73\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-77\" refers to user record number \"77\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-79\" refers to user record number \"79\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-80\" refers to user record number \"80\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-81\" refers to user record number \"81\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-83\" refers to user record number \"83\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-84\" refers to user record number \"84\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-85\" refers to user record number \"85\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-87\" refers to user record number \"87\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-88\" refers to user record number \"88\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-89\" refers to user record number \"89\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-91\" refers to user record number \"91\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-92\" refers to user record number \"92\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-95\" refers to user record number \"95\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-96\" refers to user record number \"96\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-98\" refers to user record number \"98\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-99\" refers to user record number \"99\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "Record token \"F0-100\" refers to user record number \"100\".",
+                "SQLCODE": "SQL3227W"
+            },
+            {
+                "MESSAGE": "The utility has completed processing.  \"101\" rows were read from the input file.",
+                "SQLCODE": "SQL3110N"
+            },
+            {
+                "MESSAGE": "Begin Load Consistency Point. Input record count = \"101\".",
+                "SQLCODE": "SQL3519W"
+            },
+            {
+                "MESSAGE": "Load Consistency Point was successful.",
+                "SQLCODE": "SQL3520W"
+            },
+            {
+                "MESSAGE": "The utility has finished the \"LOAD\" phase at time \"12\/13\/2022 06:10:58.745727\".",
+                "SQLCODE": "SQL3515W"
+            },
+            {
+                "MESSAGE": "At least one warning message was encountered during LOAD processing.",
+                "SQLCODE": "SQL3107W"
+            }
+        ],
+        "LOAD_STATUS": "RUNNING",
+        "ROWS_COMMITTED": 101,
+        "ROWS_DELETED": 0,
+        "ROWS_LOADED": 45,
+        "ROWS_READ": 101,
+        "ROWS_REJECTED": 56,
+        "ROWS_SKIPPED": 0,
+        "SCHEMA": "XHC17948",
+        "START_TIME": "20221213 06:10:51 GMT",
+        "TABLE": "SPACEX",
+        "WARNING": "At least one warning message was encountered during LOAD processing.. SQLCODE=3107, SQLSTATE=     , DRIVER=4.31.10"
+    },
+    "resultCode": "SUCCESS"
+}
